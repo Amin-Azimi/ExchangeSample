@@ -1,7 +1,7 @@
 {
-    "DATABASE": "test",
-    "USER": "test",
-    "PASSWORD": "test",
+    "DATABASE": "testDB",
+    "USER": "root",
+    "PASSWORD": "11223344",
     "HOST": "localhost"
   }
   
